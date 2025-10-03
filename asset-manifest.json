@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/FIRSTREACT/static/css/main.cbdb6614.css",
+    "main.js": "/FIRSTREACT/static/js/main.93136b4d.js",
+    "static/js/453.52d4e33e.chunk.js": "/FIRSTREACT/static/js/453.52d4e33e.chunk.js",
+    "index.html": "/FIRSTREACT/index.html",
+    "main.cbdb6614.css.map": "/FIRSTREACT/static/css/main.cbdb6614.css.map",
+    "main.93136b4d.js.map": "/FIRSTREACT/static/js/main.93136b4d.js.map",
+    "453.52d4e33e.chunk.js.map": "/FIRSTREACT/static/js/453.52d4e33e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cbdb6614.css",
+    "static/js/main.93136b4d.js"
+  ]
+}
